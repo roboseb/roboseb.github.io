@@ -1,0 +1,30 @@
+h2{
+	color: #9CEB0E;
+	font-family: Comic Sans MS, sans-serif;
+}
+
+a{
+	color: #403076;
+	font-family: Comic Sans MS, sans-serif;
+	}
+
+h1{
+	font-family: Comic Sans MS, sans-serif;
+	color: #256F5C;
+}
+h3{
+	font-family: Comic Sans MS, sans-serif;
+	color: #403076;
+}
+p{
+	font-family: Comic Sans MS, sans-serif;
+	color: #403076;
+}
+#title{
+	border: 10px;
+	border-style: groove;
+	margin-left: 350px;
+	margin-right: 350px;
+	
+	
+}
