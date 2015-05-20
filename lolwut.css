@@ -1,21 +1,24 @@
 h2{
 	color: #8B008B;
-	font-family: Yu Mincho Light, sans-serif;
+	font: Yu Mincho Light;
+	text-align: center;
 }
 
 h1{
-	font-family: font-family: Comic Sans MS;
+	font-family: Rosewood Std Regular;
 	color: #256F5C;
 	border: 10px;
 	border-style: groove;
 	margin: 30px;
 	padding: 25px;
 	text-align: center;
+	font-size: 40px;
 }
 
 h3{
 	font-family: Yu Mincho Light, sans-serif;
 	color: #403076;
+	text-align: center;	
 }
 
 p{
@@ -24,24 +27,27 @@ p{
 }
 
 #mainContent{
-margin-left: 150px;
-
+margin-left: 210px;
 }
 
 #navBar ul li a{
 	text-decoration: none;
 	display: block;
-	color: black
+	color: black;
+	font-size: 20px;
+	
 }
 
 #navBar ul{
 	list-style-type: none;
-	margin-left: -10;
-	margin-right: 20;
+	padding-right: 35px;
+	padding-left: 35px;
+	font: Hobo Std;
+	
 }
 
 #navBar ul li a:hover{
-	background-color: pink
+	background-color: pink;
 }
 
 #navBar{
