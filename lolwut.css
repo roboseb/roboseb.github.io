@@ -1,18 +1,19 @@
 h2{
-	color: #8B008B;
-	font: Yu Mincho Light;
+	color: #BA55D3;
+	font-family: Yu Mincho Light;
 	text-align: center;
 }
 
 h1{
-	font-family: Rosewood Std Regular;
-	color: #256F5C;
-	border: 10px;
+	font-family: Rockwell;
+	color: #BA55D3;
+	border: 30px;
 	border-style: groove;
+	border-color: #D4F09C #E6F7C5 #E6F7C5 #D4F09C;
 	margin: 30px;
 	padding: 25px;
 	text-align: center;
-	font-size: 40px;
+	font-size: 55px;
 }
 
 h3{
@@ -26,8 +27,25 @@ p{
 	color: #403076;
 }
 
+img{
+	height: 450px;
+	padding: 15px;
+	
+}
+
 #mainContent{
-margin-left: 210px;
+	margin-left: 210px;
+	background-color: #E0FFFF;
+}
+
+#navBar h2{
+	font-size: 35px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: cyan;
+	font-family: Rockwell;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 #navBar ul li a{
@@ -35,15 +53,15 @@ margin-left: 210px;
 	display: block;
 	color: black;
 	font-size: 20px;
-	
+	font-family: Rockwell;
+	border-style: groove;
+	border: 7px;
 }
 
 #navBar ul{
 	list-style-type: none;
-	padding-right: 35px;
-	padding-left: 35px;
-	font: Hobo Std;
-	
+	padding-right: 20px;
+	padding-left: 20px;
 }
 
 #navBar ul li a:hover{
@@ -51,7 +69,6 @@ margin-left: 210px;
 }
 
 #navBar{
-	font-family: Batang;
 	background-color: #00CED1;
 	margin-left: 0;
 	margin-top: 0;
