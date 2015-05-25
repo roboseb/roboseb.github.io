@@ -84,5 +84,12 @@ p{
 }
 
 #navBar img{
-width: 50%:
+	width: 50%:
+}
+
+.stepTitles{
+	font-family: Yu Mincho Light, sans-serif;
+	color: #403076;
+	font-size: 35px;
+	text-align: left;
 }
