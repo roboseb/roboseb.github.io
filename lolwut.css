@@ -27,6 +27,11 @@ p{
 	color: #403076;
 }
 
+#arin{
+	height: 2000px;		
+	border-radius: 25px;
+}
+
 #mainContent img{
 	height: 450px;
 	padding: 15px;
